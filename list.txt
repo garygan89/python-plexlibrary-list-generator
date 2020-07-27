@@ -1,0 +1,54 @@
+interesting_plot,Interesting Plot
+watchlist,Watchlist
+thriller,Thriller
+dinosaur,Dinosaur
+comedy,Comedy
+fantasy,Fantasy
+horror,Horror
+alien,Alien
+apocalypse,Apocalypse
+time_travel,Time Travel
+shapeshifter,Shapeshifter
+space_travel,Space Travel
+comedy_horror,Comedy Horror
+sci_fi,Sci-Fi
+alien_invasion,Alien Invasion
+adventure,Adventure
+video_game_character_adaptation,Video Game Character Adaptation
+psychological_thriller, Psychological Thriller
+slasher,Slasher
+vampires,Vampires
+family,Family
+favorite,Favorite
+collection_set,Collection Set
+superheroes,Superheroes
+action_comedy,Action Comedy
+mystery,Mystery
+robots,Robots
+zombies,Zombies
+mummies,Mummies
+animation,Animation
+space,Space
+action_police,Action Police
+action,Action
+hijacking,Hijacking
+airplane,Airplane
+crime,Crime
+drama,Drama
+bollywood,Bollywood
+marvel_heroes,Marvel Heroes
+cg,Computer Graphics
+magic_sorcery_witchcraft,Magic/Sorcery
+romance,Romance
+time_loop,Time Loop
+possessed_doll,Possessed Doll
+kidnapping,Kidnapping
+vacation,Vacation
+supernatural_and_paranormals,Supernatural/Paranormals
+pandemic,Pandemic
+murder_mystery,Murder Mystery
+island,Island
+forest,Forest
+seduction,Seduction
+train,Train
+camcorder_mockumentary,Camcorder/Mockumentary
