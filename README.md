@@ -73,5 +73,11 @@ Available recipes:
 
 ```
 
+## Optional
+To sync **ALL** the recipes to Plex, run the following
+```
+./sync_all_recipes /path/to/python-plexlibrary
+```
+
 My trakt.tv list if you're interested:
 https://trakt.tv/users/d-sync/lists
