@@ -13,6 +13,7 @@ for i in `ls "$recipepath"/*.yml`;
     do
         # echo $i
         recipename="$(sed 's/.yml//g' <<< $i)"
+        recipename=$(basename "$recipename")
         echo "Syncing $recipename to Plex..."
-        # python3 plexlibrary "$recipename" 
+        python3 plexlibrary "$recipename" 
 done;
