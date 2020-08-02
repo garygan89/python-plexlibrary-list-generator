@@ -1,0 +1,18 @@
+#!/bin/bash
+# Bash script to quickly sync all playlist in recipes/ folder. Run this after createlist.py
+# Usage: sync_all_recipes <PATH_TO_PYTHON-PLEXLIBRARY> 
+inpath="$1" # location of python-plexlibrary
+
+if [ -z "$1" ]; then
+    echo "ERROR: You must specify the path to python-plexlibrary!"
+    exit 1
+fi
+
+recipepath="$1/recipes"
+for i in `ls "$recipepath"/*.yml`; 
+    do
+        # echo $i
+        recipename="$(sed 's/.yml//g' <<< $i)"
+        echo "Syncing $recipename to Plex..."
+        # python3 plexlibrary "$recipename" 
+done;

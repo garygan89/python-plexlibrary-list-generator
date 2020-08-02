@@ -8,13 +8,12 @@ source_list_urls:
 # Source library details
 source_libraries:
   - name: 'Movies'
-    folders:
-      - '<SRC_MEDIA_PATH>'
 
 # New library details
 new_library:
   name: 'Movies - <LIBNAME>'
   folder: '<NEW_LIB_PATH>/Movies - <LIBNAME>/'
+  
   sort: true
   sort_title:
     format: '{number}. {title}'
